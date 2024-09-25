@@ -29,16 +29,14 @@ To start using the AI Mock Interview Platform, follow these steps:
 - **Detailed Feedback**: Receive comprehensive feedback on your answers, helping you identify areas for improvement.
 - **Progress Tracking**: Track your progress over time, allowing you to monitor your growth and preparedness.
 - **Customizable Sessions**: Adjust interview difficulty and question categories to match your preparation level.
-- **Audit Logs**: Track all activities within the platform for better insights and progress analysis.
-- **Collaborative Workspaces**: Teams can share and review interview sessions to foster group learning.
-
+- 
 ## Technologies Used
 
 ### Frontend
 
 - **Next.js**: A powerful React framework used for server-side rendering and static site generation.
 - **React**: For building dynamic and interactive user interfaces.
-- **TypeScript**: Ensures type safety across the codebase.
+- **JavaScript**: .
 - **shadcnUI & TailwindCSS**: Provides a customizable and responsive UI/UX design.
 
 ### Backend
