@@ -29,7 +29,7 @@ To start using the AI Mock Interview Platform, follow these steps:
 - **Detailed Feedback**: Receive comprehensive feedback on your answers, helping you identify areas for improvement.
 - **Progress Tracking**: Track your progress over time, allowing you to monitor your growth and preparedness.
 - **Customizable Sessions**: Adjust interview difficulty and question categories to match your preparation level.
-- 
+  
 ## Technologies Used
 
 ### Frontend
