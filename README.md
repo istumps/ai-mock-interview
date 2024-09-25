@@ -53,11 +53,9 @@ To start using the AI Mock Interview Platform, follow these steps:
 
 ## How It Works
 
-1. **Sign Up / Log In**: Start by creating an account using email or Google authentication via Clerk.
-2. **Select a Role**: Choose the role or job position you want to practice for.
-3. **Begin the Interview**: The AI interviewer asks questions based on the selected role.
-4. **Receive Feedback**: After each session, you receive detailed feedback on your performance.
-5. **Track Your Progress**: Monitor your progress over time and adjust interview settings to improve.
+<img width="400" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/user-attachments/assets/4f62c467-3e3f-4c32-99b7-c09870df463e">
+
+
 
 ## Pro Tier
 
