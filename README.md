@@ -28,7 +28,14 @@ To start using the AI Mock Interview Platform, follow these steps:
 - **Detailed Feedback**: Receive comprehensive feedback on your answers, helping you identify areas for improvement.
 - **Progress Tracking**: Track your progress over time, allowing you to monitor your growth and preparedness.
 - **Customizable Sessions**: Adjust interview difficulty and question categories to match your preparation level.
-  
+
+
+
+
+<img width="1000" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/user-attachments/assets/4f62c467-3e3f-4c32-99b7-c09870df463e">
+
+
+
 ## Technologies Used
 
 ### Frontend
@@ -52,7 +59,6 @@ To start using the AI Mock Interview Platform, follow these steps:
 - **Stripe**: Manages payment processing and subscription plans for users who wish to upgrade.
 
 
-<img width="1000" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/user-attachments/assets/4f62c467-3e3f-4c32-99b7-c09870df463e">
 
 
 
