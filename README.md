@@ -1,6 +1,6 @@
 # AI Mock Interview Platform
 
-The AI Mock Interview Platform is an innovative tool that helps users practice for job interviews through simulated mock interview sessions. This application leverages Next.js, React, Drizzle ORM, Gemini AI, and Clerk for user authentication, along with PostgreSQL as the primary database. It provides a seamless and interactive experience for users to improve their interview skills and gain confidence.
+The AI Mock Interview Platform is an innovative tool that helps users practice for job interviews through simulated mock interview sessions. This application leverages Next.js, React, Drizzle ORM, and Clerk for user authentication, along with PostgreSQL as the primary database. It provides a seamless and interactive experience for users to improve their interview skills and gain confidence.
 
 ## Screenshots
 
@@ -42,8 +42,7 @@ To start using the AI Mock Interview Platform, follow these steps:
 
 - **Drizzle ORM**: A TypeScript-first ORM for PostgreSQL, providing a seamless interaction with the database.
 - **PostgreSQL**: A powerful, open-source relational database used for data storage and retrieval.
-- **Gemini AI**: Implements the AI capabilities for conducting interviews and generating responses.
-
+- 
 ### Authentication & User Management
 
 - **Clerk**: Provides user authentication and management with email and Google sign-in support.
@@ -51,11 +50,6 @@ To start using the AI Mock Interview Platform, follow these steps:
 ### Payments & Subscriptions
 
 - **Stripe**: Manages payment processing and subscription plans for users who wish to upgrade.
-
-### Additional Integrations
-
-- **OpenAI API**: Used to power the AI-driven interview sessions.
-- **Vercel**: Deployment platform for hosting the AI Mock Interview application.
 
 ## How It Works
 
