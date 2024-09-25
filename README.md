@@ -8,7 +8,7 @@ The AI Mock Interview Platform is an innovative tool that helps users practice f
 
 <img width="400" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/user-attachments/assets/a7871b67-1df9-41c4-ac27-80af9073982d">
 
-<img width="400" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/aaronkjin/einstein/assets/58490258/ed47523f-9139-400e-af38-e71d57733e0d">
+<img width="400" alt="Screen Shot 2023-08-06 at 3 29 06 AM" src="https://github.com/user-attachments/assets/bc164119-2729-428d-a614-7e02631f9366">
 
 
 
