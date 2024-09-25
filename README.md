@@ -49,7 +49,7 @@ To start using the AI Mock Interview Platform, follow these steps:
 
 - **Drizzle ORM**: A TypeScript-first ORM for PostgreSQL, providing a seamless interaction with the database.
 - **PostgreSQL**: A powerful, open-source relational database used for data storage and retrieval.
-- 
+
 ### Authentication & User Management
 
 - **Clerk**: Provides user authentication and management with email and Google sign-in support.
