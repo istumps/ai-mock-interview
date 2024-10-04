@@ -1,4 +1,4 @@
-# AI Mock Interview Platform
+# AI Mock Interview
 
 The AI Mock Interview Platform is an innovative tool that helps users practice for job interviews through simulated mock interview sessions. This application leverages Next.js, React, Drizzle ORM, and Clerk for user authentication, along with PostgreSQL as the primary database. It provides a seamless and interactive experience for users to improve their interview skills and gain confidence.
 
